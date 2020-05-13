@@ -10,9 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "atcq": "^1.0.6",
+    "mediancut": "^2.0.2",
     "p5": "^1.0.0",
-    "parcel-bundler": "^1.12.4",
-    "skmeans": "^0.11.3"
+    "parcel-bundler": "^1.12.4"
   }
 }
